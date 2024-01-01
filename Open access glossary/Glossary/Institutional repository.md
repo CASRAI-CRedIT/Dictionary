@@ -1,0 +1,3 @@
+# Institutional repository
+
+An online, digital collection of research outputs (see Repository) that are connected by their affiliation with a specific institution. Institutional repositories are most commonly associated with universities and other academic organisations, and so the contents of a single institutional repository may therefore cover a range of disciplines. An institutional repository may often be managed as part of a wider suite of services supporting scholarly communication, Open Access and Open Education.

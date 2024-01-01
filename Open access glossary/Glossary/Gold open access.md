@@ -1,0 +1,5 @@
+# Gold open access
+
+The publisher version of a publication is immediately and permanently freely available for anyone with internet access to read or download from the publisher site at the point of publication.
+
+This is usually available on the publisher's website with a licence that permits copying and re-use. There is often a one-off payment of an upfront fee or Article Processing Charge (APC) by or on behalf of the author. Some journals contain only open access articles whereas others, known as hybrid journals, may offer a mix of open and subscription content. Sometimes the fee may be waived or covered by a membership arrangement. Where open access fees are waived this is sometimes referred to as “diamond” open access. All articles that meet the definition can be considered gold open access whether or not an APC was paid.

@@ -1,0 +1,5 @@
+# Author accepted manuscript
+
+The author's final, peer reviewed and corrected manuscript, usually created in Word or LaTeX.
+
+When publishers require authors to upload their final manuscript into a formatted page, this document is considered to be the Author Accepted Manuscript (AAM) as it is distinguishable from the final published version because page numbers, volume and issue number are absent. Content and layout follow publisher's submission requirements. If the document has been typeset or copy-edited by the publisher (such as proofs or the final published version of record) then it is not an AAM. AAMs prepared in a journal template are acceptable (such as ‘camera-ready’ manuscripts), however if the document has received page numbers then it is not an AAM. The version of a manuscript that has been accepted by a publisher for publication. The manuscript version (together with the pre-print) is what most journal publishers allow to self-archive in repositories.

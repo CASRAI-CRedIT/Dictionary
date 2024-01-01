@@ -1,0 +1,32 @@
+# Journal Article
+## Short definition
+Articles in peer-reviewed publications that disseminate the results of original research and scholarship.
+## Fields
+[Article Title](../Object-Fields/Journal%20Article/Article%20Title.md),
+[Authoring Role](../Object-Fields/Journal%20Article/Authoring%20Role.md),
+[Co-Authors](../Object-Fields/Journal%20Article/Co-Authors.md),
+[First Listed Author](../Object-Fields/Journal%20Article/First%20Listed%20Author.md),
+[Journal](../Object-Fields/Journal%20Article/Journal.md),
+[Volume](../Object-Fields/Journal%20Article/Volume.md),
+[Issue](../Object-Fields/Journal%20Article/Issue.md),
+[NIH Manuscript Number](../Object-Fields/Journal%20Article/NIH%20Manuscript%20Number.md),
+[Open Access?](../Object-Fields/Journal%20Article/Open%20Access.md),
+[Open Access Ref 1](../Object-Fields/Journal%20Article/Open%20Access%20Ref%201.md),
+[Open Access Ref 2](../Object-Fields/Journal%20Article/Open%20Access%20Ref%202.md),
+[Pubmed ID](../Object-Fields/Journal%20Article/Pubmed%20ID.md),
+[Page Range From](../Object-Fields/Journal%20Article/Page%20Range%20From.md),
+[Page Range To](../Object-Fields/Journal%20Article/Page%20Range%20To.md),
+[Publication Date](../Object-Fields/Journal%20Article/Publication%20Date.md),
+[Publication Location](../Object-Fields/Journal%20Article/Publication%20Location.md),
+[Publication Status](../Object-Fields/Journal%20Article/Publication%20Status.md),
+[Refereed?](../Object-Fields/Journal%20Article/Refereed.md),
+[URL](../Object-Fields/Journal%20Article/URL.md),
+[PMC ID](../Object-Fields/Journal%20Article/PMC%20ID.md),
+[DOI](../Object-Fields/Journal%20Article/DOI.md),
+[ISSN](../Object-Fields/Journal%20Article/ISSN.md),
+[Publisher Name](../Object-Fields/Journal%20Article/Publisher%20Name.md),
+[Publisher ID Type](../Object-Fields/Journal%20Article/Publisher%20ID%20Type.md),
+[Publisher ID](../Object-Fields/Journal%20Article/Publisher%20ID.md),
+[Provisional Acceptance Date](../Object-Fields/Journal%20Article/Provisional%20Acceptance%20Date.md),
+[Final Acceptance Date](../Object-Fields/Journal%20Article/Final%20Acceptance%20Date.md),
+[Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md)
